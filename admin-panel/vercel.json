@@ -1,0 +1,6 @@
+{
+    "version": 2,
+    "name": "sharath-property-admin",
+    "rewrites": [{ "source": "/(.*)", "destination": "/index.html" }]
+  }
+  

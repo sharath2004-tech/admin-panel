@@ -1,0 +1,20 @@
+.expander {
+  display: grid;
+  grid-template-rows: 0fr;
+  overflow: hidden;
+  transition: grid-template-rows 800ms;
+}
+.expander-content {
+  min-height: 0;
+  transition: visibility 700ms;
+  visibility: hidden;
+}
+.expander.expanded {
+  grid-template-rows: 1fr;
+}
+.expander.expanded .expander-content {
+  visibility: visible;
+}
+
+
+

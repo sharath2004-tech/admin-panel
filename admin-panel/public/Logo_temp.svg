@@ -1,0 +1,8 @@
+﻿<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="512" height="512" rx="50" fill="#DC2626"/>
+  <path d="M256 100C185.308 100 128 157.308 128 228C128 277.448 156.044 319.578 196 337.006V410L256 372L316 410V337.006C355.956 319.578 384 277.448 384 228C384 157.308 326.692 100 256 100Z" fill="white"/>
+  <circle cx="217" cy="218" r="20" fill="#DC2626"/>
+  <circle cx="295" cy="218" r="20" fill="#DC2626"/>
+  <path d="M217 269C217 269 230 287 256 287C282 287 295 269 295 269" stroke="#DC2626" stroke-width="10" stroke-linecap="round"/>
+  <text x="256" y="460" font-family="Arial, sans-serif" font-size="60" font-weight="bold" fill="white" text-anchor="middle">COPILOT</text>
+</svg>
